@@ -91,4 +91,4 @@ Documentation: CC BY 4.0
 
 Need a WordPress website launch review or maintenance plan?
 
-Contact **kevin web design hongkong**.
+Contact **Kevin Web Design Hongkong**.https://www.kevinwebdesign.com/
