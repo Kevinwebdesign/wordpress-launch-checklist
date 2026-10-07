@@ -57,8 +57,6 @@ This repo gives you a reusable checklist and automation examples used by **Kevin
 - Backup and restore
 - Post-launch monitoring
 
-See [`checklist.md`](./checklist.md) for the full list.
-
 ---
 
 ## Automation
