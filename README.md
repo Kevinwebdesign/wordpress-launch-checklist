@@ -2,7 +2,7 @@
 
 A practical WordPress launch checklist and GitHub Actions workflow for DNS, SSL, SEO, performance, security, forms and backups.
 
-Maintained by **Kevin Web Design Hong Kong** ([@kevinwebdesignhongkong](https://github.com/kevinwebdesignhongkong)).
+Maintained by **Kevin Web Design Hong Kong** .
 
 ---
 
@@ -26,16 +26,6 @@ Before go-live, you need to check:
 - Post-launch monitoring
 
 This repo gives you a reusable checklist and automation examples used by **kevin web design hongkong** in real WordPress projects.
-
----
-
-## What's inside
-
-- [`checklist.md`](./checklist.md) — full WordPress launch checklist
-- [`lighthouse-budget.json`](./lighthouse-budget.json) — performance budget example
-- [`.github/workflows/launch-checks.yml`](./.github/workflows/launch-checks.yml) — GitHub Actions workflow
-- [`scripts/ssl-expiry.sh`](./scripts/ssl-expiry.sh) — SSL expiry check script
-- [`docs/brand-notes.md`](./docs/brand-notes.md) — how kevin web design hongkong uses this checklist
 
 ---
 
