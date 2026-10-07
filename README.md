@@ -1,4 +1,3 @@
-# wordpress-launch-checklist
 # WordPress Launch Checklist
 
 A practical WordPress launch checklist and GitHub Actions workflow for DNS, SSL, SEO, performance, security, forms and backups.
