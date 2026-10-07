@@ -26,7 +26,7 @@ Before go-live, you need to check:
 - Backup and restore
 - Post-launch monitoring
 
-This repo gives you a reusable checklist and automation examples used by **kevinwebdesignhongkong** in real WordPress projects.
+This repo gives you a reusable checklist and automation examples used by **kevin web design hongkong** in real WordPress projects.
 
 ---
 
@@ -36,7 +36,7 @@ This repo gives you a reusable checklist and automation examples used by **kevin
 - [`lighthouse-budget.json`](./lighthouse-budget.json) — performance budget example
 - [`.github/workflows/launch-checks.yml`](./.github/workflows/launch-checks.yml) — GitHub Actions workflow
 - [`scripts/ssl-expiry.sh`](./scripts/ssl-expiry.sh) — SSL expiry check script
-- [`docs/brand-notes.md`](./docs/brand-notes.md) — how kevinwebdesignhongkong uses this checklist
+- [`docs/brand-notes.md`](./docs/brand-notes.md) — how kevin web design hongkong uses this checklist
 
 ---
 
@@ -102,4 +102,4 @@ Documentation: CC BY 4.0
 
 Need a WordPress website launch review or maintenance plan?
 
-Contact **kevinwebdesignhongkong**.
+Contact **kevin web design hongkong**.
