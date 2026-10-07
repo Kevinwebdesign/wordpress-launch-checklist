@@ -140,4 +140,4 @@ Used by **Kevin Web Design Hong Kong** ([@kevinwebdesignhongkong](https://github
 
 ---
 
-Maintained by **kevinwebdesignhongkong**.
+Maintained by **Kevin Web Design Hongkong**.
