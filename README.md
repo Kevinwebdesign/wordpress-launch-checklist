@@ -2,7 +2,7 @@
 
 A practical WordPress launch checklist and GitHub Actions workflow for DNS, SSL, SEO, performance, security, forms and backups.
 
-Maintained by **Kevin Web Design Hong Kong** .
+Maintained by **Kevin Web Design Hong Kong** https://www.kevinwebdesign.com/.
 
 ---
 
