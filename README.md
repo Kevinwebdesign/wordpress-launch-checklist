@@ -25,7 +25,7 @@ Before go-live, you need to check:
 - Backup and restore
 - Post-launch monitoring
 
-This repo gives you a reusable checklist and automation examples used by **kevin web design hongkong** in real WordPress projects.
+This repo gives you a reusable checklist and automation examples used by **Kevin Web Design Hongkong** in real WordPress projects.
 
 ---
 
